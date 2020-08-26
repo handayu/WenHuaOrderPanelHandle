@@ -1,0 +1,2 @@
+# WenHuaOrderPanelHandle
+ multicharts信号和文华财经的对接，外部信号可以直接对接MC不支持的软件或者期货公司下单
