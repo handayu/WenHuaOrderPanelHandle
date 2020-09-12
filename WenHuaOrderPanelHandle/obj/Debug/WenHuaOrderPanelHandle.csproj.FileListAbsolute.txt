@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\WenHuaOrderPanelHandle\WenHuaOrderPanelHandle\bin\Debug\WenHuaOrderPanelHandle.exe.config
+C:\Users\Administrator\Desktop\WenHuaOrderPanelHandle\WenHuaOrderPanelHandle\bin\Debug\WenHuaOrderPanelHandle.exe
+C:\Users\Administrator\Desktop\WenHuaOrderPanelHandle\WenHuaOrderPanelHandle\bin\Debug\WenHuaOrderPanelHandle.pdb
+C:\Users\Administrator\Desktop\WenHuaOrderPanelHandle\WenHuaOrderPanelHandle\obj\Debug\WenHuaOrderPanelHandle.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\WenHuaOrderPanelHandle\WenHuaOrderPanelHandle\obj\Debug\WenHuaOrderPanelHandle.Form1.resources
+C:\Users\Administrator\Desktop\WenHuaOrderPanelHandle\WenHuaOrderPanelHandle\obj\Debug\WenHuaOrderPanelHandle.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WenHuaOrderPanelHandle\WenHuaOrderPanelHandle\obj\Debug\WenHuaOrderPanelHandle.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WenHuaOrderPanelHandle\WenHuaOrderPanelHandle\obj\Debug\WenHuaOrderPanelHandle.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WenHuaOrderPanelHandle\WenHuaOrderPanelHandle\obj\Debug\WenHuaOrderPanelHandle.exe
+C:\Users\Administrator\Desktop\WenHuaOrderPanelHandle\WenHuaOrderPanelHandle\obj\Debug\WenHuaOrderPanelHandle.pdb
